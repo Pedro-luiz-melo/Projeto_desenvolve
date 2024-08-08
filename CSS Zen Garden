@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <h1>Paleta de cores</h1> 
+       <style>
+        h2{font-family: Arial;}
+        h1{font-family: arial;}
+       </style>
+    </head>
+    <body>
+        <h2 style="color: royalblue;">
+        1ª cor
+        </h2>
+    <h2 style="color: aquamarine;">
+        2ª cor
+    
+
+    </h2>
+    <h2 style="color: blueviolet;">
+        3ª cor 
+
+    </h2>
+    </body>
+</html>
