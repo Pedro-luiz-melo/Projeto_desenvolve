@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        h2 {font-family: verdana; color: #c746d3;}
+        input {color: darkmagenta;}
+        p {font-family: Arial}
+        #CSS{background-color: #221b83;color: rgb(255, 255, 255);}
+        #desenvolve{color: #221b83; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+        #date{color: blue;}
+        a{color: rebeccapurple;}
+        a:houver{color: red;}
+        a{color: rgb(255, 0, 0);}
+       a:hover{color: rgb(106, 211, 20);}
+       h1+p{font: bold;}
+       h1>p{font: bold;}
+       h1{font-family: arial;}
+
+        </style>
+    </head>
+    <body>
+        <p id="CSS">
+             Conteudo sobre CSS
+        </p> 
+        <h1>Exercio web</h1>
+        <p id="desenvolve">
+            Projeto desenvolve
+        </p>
+       
+        <p class="date">
+          Sábado, 07 de agosto 2024.
+    </p>
+    <p>
+        O evento será sábado!
+    </p>
+       <p>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqRnHkendZTZh8XbwbRUL0buBDkPmNqAFJ2xnU6eSwkzdm3g/viewform?hr_submission=ChkI3cuprsATEhAI_62SssATEgcI1K2SssATEAE">Clique aqui!</a>
+       </p>
+    </body>
+</html>
