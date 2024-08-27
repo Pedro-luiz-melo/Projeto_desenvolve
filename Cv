@@ -1,0 +1,114 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <h1> Curriculo </h1>
+         <img src="Imagem do WhatsApp de 2024-08-12 à(s) 16.46.17_3294536f.jpg">
+        <style>h3{font-family: arial;} 
+         h1{font-family: cursive;} 
+         p{font-family: arial;} 
+         .container{
+           display: flex;
+           justify-content: space-evenly
+         }
+         .container   p{
+           border: #000 1px solid;
+         }
+         ul{;
+   border: 1px solid black;
+   
+}
+h2{
+           border: #000 1px solid;
+         }
+         h1{color: darkslategray}
+         h2{color: darkslategrey;}
+         </style> 
+          </head>
+           <body>
+             <h2>
+                 Pedro Luiz Melo Venancio
+                 </h2> 
+                 <p> 
+                   
+                  <nav>
+                  <ul>
+                    
+                    <li>
+                        Tel:(37)99991-4114
+                        
+                    </li> 
+                    <li>
+                         Email:melovenanciopedroluiz99@gmail.com
+
+                    </li> 
+                    <li>
+                        Cidade: Bom Despacho-Minas Gerais
+                    </li> 
+                    </ul>
+                </p>
+                 <p> 
+                    <strong> Escolaridade </strong> 
+                   <ul>
+                     <li>
+                        Escola: Escola estadual Professor Wilson Lopes do Couto
+                     </li> 
+                     <li>
+                        Previsão de conclusão: 2026
+
+                     </li> 
+                     </ul>
+                    </p>
+                    <p>
+                     <strong> Cerficações</strong>
+                    </p>
+                    <p>
+                      <ul>
+                        <li>
+                          <strong>Curso photoshop</strong>
+                        </li>
+                        <li>Carga horária: 40 horas</li>
+                        <li>Ano de conclusão: 2022</li>
+                  
+                      </ul>
+                    </p>
+                    <p>
+                      <ul>
+                        <li><strong>Curso linux</strong></li>
+                        <li>Carga horária: 40 horas</li>
+                        <li>
+                          Ano de conclusão: 2024
+                        </li>
+                      
+                      </ul>
+                    </p>
+                    <p>
+                      <ul>
+                        <li><strong>Curso introdução a Web</strong></li>
+                        <li>Carga horária: 60 horas</li>
+                        <li>Ano de conclusão: 2024</li>
+                      </ul>
+                    </p>
+                    <p>
+                      <ul>
+                        <li><strong>Manutenção de computadores</strong></li>
+                        <li>Carga horária: 40 horas</li>
+                        <li>Ano de conclusão: 2022</li>
+                      </ul>
+                    </p>
+                    <p>
+                      <ul>
+                        <li><strong>Curso informática</strong></li>
+                        <li>Carga horária: 40 horas</li>
+                        <li>Ano de conclusão: 2022</li>
+                      </ul>
+                    </p>
+                  </nav>
+                 </body> 
+                 <footer>
+                  <ul>
+                    <li>
+                      <a href="https://www.instagram.com/pedro_luiz.__/">Instagram</a>
+                    </li>
+                  </ul>
+                 </footer>
+                 </html>
